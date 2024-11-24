@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently Developing API for Kalorize<br>🎓 Currently persuing bachelor degree in electrical engineering at telkom university<br>🌱 I’m currently learning C language<br>💬 Ask me about anything</p>
+<h2 align="left">🔭 I’m currently Developing API for Kalorize<br>🎓 Currently persuing bachelor degree in electrical engineering at telkom university<br>🌱 I’m currently learning C language<br>💬 Ask me about anything</p>
 
 ###
 
