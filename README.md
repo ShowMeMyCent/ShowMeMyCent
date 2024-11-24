@@ -22,7 +22,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=flutter" height="30" alt="flutter logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/go/00ADD8" height="30" alt="go logo"  />
