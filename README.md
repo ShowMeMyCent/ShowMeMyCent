@@ -6,11 +6,19 @@
 
 ###
 
+<p align="left">--------------------------------------------------------------------------------------------------------------------</p>
+
+###
+
 <p align="left">🔭 I’m currently Developing API for Kalorize<br>🎓 Currently persuing bachelor degree in electrical engineering at telkom university<br>🌱 I’m currently learning C language<br>💬 Ask me about anything</p>
 
 ###
 
-<p align="center">😼 My Skills!</p>
+<p align="left">--------------------------------------------------------------------------------------------------------------------</p>
+
+###
+
+<h4 align="center">😼 My Skills!</h4>
 
 ###
 
@@ -40,11 +48,15 @@
 
 ###
 
-<img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXE1MzliM2tjY293MXhybWVvMjczbXlzNzlydTY0cDdpNHEzaHZ0eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pt0EKLDJmVvlS/giphy.webp"  />
+<p align="left">--------------------------------------------------------------------------------------------------------------------</p>
 
 ###
 
-<p align="center">🤙 Contact Me!</p>
+<img align="right" height="250" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjY0bGd3OG52d2F3anpvb2luaTBqY3R2ZzB0d2Z2dWt3c3V3Z3V1NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IxlnMFrOLVNp6/giphy.webp"  />
+
+###
+
+<h4 align="center">🤙 Contact Me!</h4>
 
 ###
 
