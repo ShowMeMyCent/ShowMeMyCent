@@ -14,7 +14,13 @@
 
 ###
 
+<br clear="both">
+
 <p align="left">--------------------------------------------------------------------------------------------------------------------</p>
+
+###
+
+<img align="right" height="300" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjY0bGd3OG52d2F3anpvb2luaTBqY3R2ZzB0d2Z2dWt3c3V3Z3V1NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IxlnMFrOLVNp6/giphy.webp"  />
 
 ###
 
@@ -22,7 +28,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://skillicons.dev/icons?i=flutter" height="30" alt="flutter logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/go/00ADD8" height="30" alt="go logo"  />
@@ -48,11 +54,7 @@
 
 ###
 
-<p align="left">--------------------------------------------------------------------------------------------------------------------</p>
-
-###
-
-<img align="right" height="250" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjY0bGd3OG52d2F3anpvb2luaTBqY3R2ZzB0d2Z2dWt3c3V3Z3V1NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IxlnMFrOLVNp6/giphy.webp"  />
+<p align="left">-----------------------------------------------------------------------------------</p>
 
 ###
 
