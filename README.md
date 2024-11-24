@@ -1,4 +1,4 @@
-<h2 align="left">Hii👋! I am Wildan</h2>
+<h6 align="left">Hii👋! I am Wildan</h2>
 
 ###
 
