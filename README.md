@@ -68,5 +68,9 @@
     <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
   </a>
 </div>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=showmemycent&theme=swift&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=showmemycent&theme=swift&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=showmemycent&theme=swift&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ###
