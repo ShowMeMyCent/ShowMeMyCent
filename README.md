@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently Developing API for IEEE SB Telkom<br>🎓 Currently persuing bachelor degree in electrical engineering at telkom university<br>🌱 I’m currently learning C language<br>💬 Ask me about anything</p>
+<p align="left">🔭 I’m currently practicum assistant in daskom laboratory<br>🎓 Currently persuing bachelor degree in electrical engineering at telkom university<br>🌱 Right now im developing API for my next project "Eduverse"<br>💬 Ask me about anything</p>
 
 ###
 
