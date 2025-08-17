@@ -64,10 +64,6 @@
 
 ###
 
-<img align="right" height="140" src="https://media1.tenor.com/m/VrfSZUjiWn4AAAAC/shy-anime.gif"  />
-
-###
-
 <h3 align="center">🤙 Contact Me!</h3>
 
 ###
