@@ -16,7 +16,7 @@
 
 ###
 
-<img align="left" height="150" src="https://media1.tenor.com/m/zKRBqcCklEoAAAAC/anime-dungeon-meshi.gif"  />
+<img align="left" height="125" src="https://media1.tenor.com/m/zKRBqcCklEoAAAAC/anime-dungeon-meshi.gif"  />
 
 ###
 
